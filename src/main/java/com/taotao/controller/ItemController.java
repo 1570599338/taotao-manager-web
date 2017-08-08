@@ -16,7 +16,7 @@ import com.taotao.service.ItemService;
  *
  */
 @Controller
-public class ItemColntroller {
+public class ItemController {
 	
 	@Autowired
 	private ItemService itemService;
